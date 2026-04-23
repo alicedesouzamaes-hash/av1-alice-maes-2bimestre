@@ -5,20 +5,20 @@ body {
 }
 
 header {
-  background-color: #222;
-  color: white;
+  background-color: #3a0866;
+  color: rgb(188, 131, 226);
   padding: 20px;
   text-align: center;
 }
 
 nav {
-  background-color: #444;
+  background-color: #8a4dbd;
   padding: 10px;
   text-align: center;
 }
 
 nav a {
-  color: grey;
+  color: rgb(187, 150, 230);
   margin: 0 15px;
   text-decoration: none;
 }
@@ -30,12 +30,12 @@ main {
 section {
   margin-bottom: 30px;
   padding: 15px;
-  border: 1px solid #ccc;
+  border: 1px solid #c9adf7;
 }
 
 footer {
-  background-color: #222;
-  color: white;
+  background-color: #3a0866;
+  color: rgb(188, 131, 226);
   text-align: center;
   padding: 10px;
   position: fixed;
