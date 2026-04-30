@@ -5,8 +5,8 @@ body {
 }
 
 header {
-  background-color: #3a0866;
-  color: rgb(203, 135, 248);
+  background-color: #1a1010;
+  color: rgb(138, 84, 34);
   padding: 20px;
   text-align: center;
   border-radius: 0px 0px 0px 0px;
@@ -14,13 +14,13 @@ header {
 
 nav {
   padding: 20px;
-  background-color: rgb(203, 135, 248);
+  background-color: rgb(138, 84, 34);
   padding: 10px;
   text-align: center;
 }
 
 nav a {
-  color: rgb(203, 135, 248);
+  color: rgb(138, 84, 34);
   margin: 0 15px;
   text-decoration: none;
 }
@@ -36,15 +36,16 @@ main {
 section {
   margin-bottom: 30px;
   padding: 15px;
-  border: 5px double #d9b8f8;
+  border: 5px double #1a1010;
   border-radius: 10px 10px;
 }
 
 footer {
-  background-color: #f5f5f5;
-  color: rgb(231, 202, 250);
+  color: #1a1010;
+  background-color: #1a1010;
   text-align: center;
   padding: 10px;
   position: fixed;
   bottom: 0;
+  width: 100%;
 }
